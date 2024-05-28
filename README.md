@@ -7,7 +7,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WellytonSdj)](https://github.com/wellytonsdj)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/WellytonSdj/)](https://www.linkedin.com/in/wellytonsdj/)
- <a href="https://www.instagram.com/well_sdj" alt="Instagram">
+ <a href="https://www.instagram.com/wellsj.jpg" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/wellsj.jpg"/>
 </a>
 
