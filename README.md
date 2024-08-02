@@ -35,3 +35,9 @@ I'm always looking to create something that can be fun or that is useful in some
 
 </p>
 
+## 📊 Github Stats  
+<div align="center" style="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=WellytonSdj&show_icons=true&count_private=true&hide_border=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WellytonSdj&layout=compact&hide_border=true&theme=dracula"/>
+</div>
+
