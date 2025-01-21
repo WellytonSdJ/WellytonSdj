@@ -6,16 +6,13 @@
 ### <div align="center">Hi! I'm Wellyton, a full-time front-end developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🤖 My hobbies are read books, play video games, draw and play guitar  
-  
+- 🤖 My hobbies include reading books, playing video games, drawing, and playing the guitar.  
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+- ❓ Feel free to ask me anything about the MERN stack and related technologies.  
 
-- ⚡ Fun fact: I love content related to technology, Si-fi, RPG, coffee, pirates, ninjas, samurais and giant robots.  
-  
+- ⚡ Fun fact: I love content related to technology, sci-fi, RPGs, coffee, pirates, ninjas, samurais, and giant robots.  
 
-- 🌱 I’m currently learning NodeJS, Cloud and AWS  
+- 🌱 I’m currently learning Node.js, cloud computing, and AWS.
   
 
 <br/>  
