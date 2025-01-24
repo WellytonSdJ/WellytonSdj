@@ -80,7 +80,7 @@
 <a href="https://dev.to/https://dev.to/wellytonsdj" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/wellsj.jpg/" target="_blank">
+<a href="https://www.instagram.com/wellsj.jpg/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/wellytonsj/" target="_blank">
